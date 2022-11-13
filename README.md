@@ -3,14 +3,14 @@ Here I will share the problems I solved in leet code and found useful
 
 ## List of problems
 ### Arrays & Hashing
-- Two Sum
-- Valid Anagram
+- [Two Sum](twosum.py)
+- [Valid Anagram](validanagram.py)
 ### Two Pointers
 ### Sliding Window
 ### Stack
 ### Binary Search
 ### Linked List
-- Reverse Linked List
+- [Reverse Linked List](reverselinkedlist.py)
 ### Trees
 ### Tries
 ### Heap/Priority Queue
