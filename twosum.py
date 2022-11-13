@@ -1,10 +1,5 @@
 class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+    def twoSum(self, nums: list, target: int) -> dict:
         hmap = {}
         for i in range(len(nums)):
             comp = target - nums[i]
