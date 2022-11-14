@@ -12,6 +12,7 @@ Here I will share the problems I solved in leet code and found useful
 ### Linked List
 - [Reverse Linked List](reverselinkedlist.py)
 ### Trees
+- [Inverse Binary Tree](invertbinarytree.py)
 ### Tries
 ### Heap/Priority Queue
 ### Backtracking
